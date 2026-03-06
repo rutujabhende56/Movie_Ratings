@@ -23,4 +23,4 @@ Most movie ratings fall between 6 and 8.
 
 Drama and crime movies appear frequently among top-rated films.
 
-he number of movies released each year has increased significantly in recent decades.
+The number of movies released each year has increased significantly in recent decades.
